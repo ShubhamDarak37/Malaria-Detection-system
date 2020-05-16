@@ -3,10 +3,10 @@
 
 #### In Blood smears method to test malaria, Clinicians have to examine blood samples under the microscope and manually count infected red blood cells.
 
-### Uninffected red blood cell:
+### Uninfected red blood cell:
 ![UnInffected red blood cell](examples/test/C2NThinF_IMG_20150604_114730_cell_139.png)
 
-### Inffected red blood cell:
+### Infected red blood cell:
 ![Inffected red blood cell](examples/test/C39P4thinF_original_IMG_20150622_110900_cell_16.png)
 
 #### According to the official WHO malaria parasite counting protocol, a clinician may have to manually count up to 5,000 cells, an extremely tedious and time-consuming process.
